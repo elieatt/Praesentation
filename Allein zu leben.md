@@ -3,11 +3,6 @@
 
 ---
 
-<p>This is an excellent draft. You are using complex sentence structures correctly (like um… zu, sowohl… als auch, dass… ob).</p>
-<p>However, there is one specific grammar rule regarding modal verbs that needs a small fix in the Pros/Cons section, and one preposition correction in the Experience section.</p>
-<p>Here is the polished version with the necessary corrections in bold.</p>
-<p>The Corrected Script (Das korrigierte Skript)<br>
-Einleitung</p>
 <p>Guten Tag. Es ist mir eine große Freude, hier vor Ihnen zu stehen und mit Ihnen über das Thema „Mit 18 Jahren allein wohnen“ zu reden. Zum Inhalt meiner Präsentation: Zuerst möchte ich Ihnen von meinen persönlichen Erfahrungen erzählen. Danach zeige ich Ihnen die Situation in meinem Heimatland. Anschließend nenne ich die wichtigsten Vor- und Nachteile. Zum Schluss gebe ich meine eigene Meinung ab und Sie können natürlich Fragen stellen.</p>
 <p>Persönliche Erfahrungen</p>
 <p>Jetzt komme ich zu meinen persönlichen Erfahrungen. Ich bin 25 Jahre alt und wohne noch bei meinen Eltern. Damit bin ich sehr zufrieden, da ich mir nicht so viele Sorgen um verschiedene Dinge machen muss. Ich habe allerdings einmal die Erfahrung gemacht, allein zu wohnen. Es war für mich sehr schwierig, weil ich dafür nicht vollständig bereit war.</p>
