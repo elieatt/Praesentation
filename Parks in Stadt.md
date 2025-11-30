@@ -3,33 +3,22 @@
 
 ---
 
-<h2 id="meine-persönlichen-erfahrungen"><strong>1. Meine persönlichen Erfahrungen</strong></h2>
-<p>In der Stadt, in der ich früher gewohnt habe, gab es nicht viele Parks.<br>
-Trotzdem habe ich jede freie Minute dort verbracht, um frische Luft zu bekommen oder mit meinen Freunden Zeit zu verbringen.<br>
-Parks waren für mich immer ein Ort, an dem ich mich entspannen, Sport machen oder einfach spazieren gehen konnte.<br>
-Heute gehe ich, wenn ich Zeit habe, auch sehr gern in Parks, weil sie mir helfen, Stress abzubauen und neue Energie zu bekommen.</p>
-<hr>
-<h2 id="die-situation-in-meinem-heimatland"><strong>2. Die Situation in meinem Heimatland</strong></h2>
-<p>Auch in meinem Heimatland spielen Parks eine wichtige Rolle.<br>
-In großen Städten sind sie oft die einzigen Orte, an denen Menschen Ruhe finden können.<br>
-Viele Familien gehen am Wochenende in den Park, um zu picknicken oder die Kinder spielen zu lassen.<br>
-Leider gibt es in manchen Städten zu wenige Grünflächen, weil neue Gebäude gebaut werden.<br>
-Außerdem sind einige Parks nicht gut gepflegt, und es fehlt an Spielplätzen oder Sitzmöglichkeiten.</p>
-<hr>
-<h2 id="vor--und-nachteile"><strong>3. Vor- und Nachteile</strong></h2>
-<p>Dabei wird deutlich, dass Parks in Städten sowohl positive als auch negative Seiten haben.</p>
-<h3 id="vorteile"><strong>Vorteile:</strong></h3>
-<p>– Parks bieten frische Luft und verbessern die Lebensqualität.<br>
-– Sie sind wichtige Orte für Sport, Erholung und soziale Begegnungen.<br>
-– Sie helfen, die Stadt weniger heiß und die Luft sauberer zu machen.</p>
-<h3 id="nachteile"><strong>Nachteile:</strong></h3>
-<p>– Manche Parks sind nicht sauber oder werden schlecht gepflegt.<br>
-– In vielen Großstädten fehlen Parks, weil der verfügbare Raum oft für Wohnungen oder Straßen genutzt wird.<br>
-– Manche Parks können unsicher wirken, besonders spät am Abend, wenn es zu dunkel ist oder zu wenig Menschen dort sind.<br>
-– Große Parks können manchmal gefährlich sein, besonders am Abend, wenn sie nicht gut beleuchtet sind.</p>
-<hr>
-<h2 id="meine-eigene-meinung"><strong>4. Meine eigene Meinung</strong></h2>
-<p>Meiner Meinung nach sind Parks ein notwendiger Teil jeder Stadt.<br>
-Sie machen das Leben gesünder, entspannter und angenehmer.<br>
-Die Stadt sollte unbedingt mehr Grünflächen schaffen und vorhandene Parks gut pflegen, damit alle Menschen davon profitieren können.</p>
+<p>Ich wohne in einer großen Stadt, deshalb sind Parks sehr wichtig für mich.<br>
+Am Wochenende gehe ich oft in den zentralen Park der Stadt, um Sport zu treiben oder mich beim Lesen auszuruhen.<br>
+Für mich ist das die beste Art, mich vom Stress bei der Arbeit zu erholen.<br>
+Allerdings habe ich manchmal wegen des Arbeitsdrucks kaum Zeit, im Grünen zu sein, und deshalb fühle ich mich oft nervös und unwohl.</p>
+<p>Was ich persönlich erlebt habe, sieht man auch in meinem Heimatland.<br>
+Bei uns spielen Parks eine große Rolle im Alltag der Menschen.<br>
+Außerdem sind sie Treffpunkte für Familien und Jugendliche.<br>
+Viele Menschen gehen vor allem am Wochenende dorthin, um Picknick zu machen und die Zeit zu genießen.<br>
+Trotzdem gibt es nur wenige Grünflächen in den großen Städten, weil viele Hochhäuser gebaut werden.<br>
+Aus diesem Grund sind die Parks oft voll und laut.<br>
+Allerdings hat die Regierung in den letzten Jahren versucht, mehr Bäume innerhalb der Städte zu pflanzen.</p>
+<p>Dabei wird deutlich, dass sowohl positive als auch negative Aspekte bestehen.<br>
+Parks bieten saubere Luft und viel freien Platz, um Sport zu treiben, was gut für die Gesundheit ist.<br>
+Weiterhin sind Parks meistens kostenlos, man muss keinen Eintritt bezahlen, sodass man die Natur genießen kann, auch wenn man wenig Geld hat.<br>
+Auf der anderen Seite können Parks etwas gefährlich sein, besonders am Abend, wenn es dunkel und leer ist. Deshalb haben manche Leute Angst, dort durchzugehen.</p>
+<p>Jetzt gehe ich auf den letzten Punkt ein.<br>
+Meiner Meinung nach sind Parks die grüne Lunge der Stadt und unbedingt notwendig für alle.<br>
+Aber ich finde es am wichtigsten, dass man Rücksicht auf Parks nimmt und sie gut pflegt.</p>
 
